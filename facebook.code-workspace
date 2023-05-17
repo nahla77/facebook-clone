@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Email & Password Validation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "facebook"
+	}
+}
